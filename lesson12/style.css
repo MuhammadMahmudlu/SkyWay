@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: black;
+}
+h1 {
+  font-size: 175px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: center;
+  color: aquamarine;
+
+}
+p{
+font-style: italic;
+color: burlywood;
+    font: 2em sans-serif;
+    font-weight: 900;
+}
+
+
+
+
+
+
+
