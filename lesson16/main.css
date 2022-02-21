@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Noto+Sans+KR&family=Redressed&display=swap');
+  body{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    p{
+        font-family: 'Josefin Sans', sans-serif;
+        font-family: 'Noto Sans KR', sans-serif;
+        font-family: 'Redressed', cursive;
+    }
+
+    p strong::before{
+        /* content: attr(href); */
+       
+    }
+
+p strong::after{
+content: " VERDI";
+color: rgb(21, 24, 24);
+}
+/* div {
+width: 100px;
+height: 100px;
+} */
+i{
+    width: 100px;
+height: 100px;
+}
+}
